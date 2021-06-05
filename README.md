@@ -8,7 +8,15 @@ OriginTrails restore script unneccesarily makes a copy of the entire backup you 
 
 This script simply removes that copy and restores from the original backup you downloaded!
 
-Follow Milians guide here:  
+---
+
+__Once downloaded enter the following command in the same directory as the restore.sh file:__
+
+__chmod +x restore.sh__
+
+---
+
+The follow Milians guide here:  
 
 https://otnode.com/node-backup/
 
