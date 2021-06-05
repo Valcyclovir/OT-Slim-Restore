@@ -1,10 +1,10 @@
 # OT-Slim-Restore
 
-A modified restore script that allows OriginTrail Node restores from AWS backup with minimal disk space.
+A modified restore script that allows OriginTrail Node restores from any backup method with minimal disk space.
 
-OriginTrails restore script unneccesarily makes a copy of the entire backup you get when you download from S3/B2. This is what takes up so much space and prevents restores without having 3x the space of the backup size available as free space.
+OriginTrails restore script unneccesarily makes a copy of the entire backup you get when you download from wherever you store it. This is what takes up so much space and prevents restores without having 3x the space of the backup size available as free space.
 
-This script simply removes that copy and restores from the original backup you downloaded from S3/B2!
+This script simply removes that copy and restores from the original backup you downloaded!
 
 Follow Milians guide here:  
 
