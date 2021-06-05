@@ -14,8 +14,7 @@ With these changes:
 
 Step 5:
 
-1. cd ~
-2. mv /root/otnode*/*/ backup
+1. mv otnode*/*/ backup
 3. rm -rf otnode*
 
 Step 8:
