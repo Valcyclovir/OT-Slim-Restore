@@ -10,13 +10,16 @@ This script simply removes that copy and restores from the original backup you d
 
 ---
 
-__Once downloaded enter the following command in the same directory as the restore.sh file:__
+Commands to download and use:
 
-__chmod +x restore.sh__
+1. Login as root
+2. __cd__
+3. __wget https://raw.githubusercontent.com/calr0x/OT-Slim-Restore/main/restore.sh__
+4. __chmod +x restore.sh__
 
 ---
 
-The follow Milians guide here:  
+Then follow Milians guide here:  
 
 https://otnode.com/node-backup/
 
