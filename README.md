@@ -1,4 +1,4 @@
-# OT-Slim-Restore 
+# OT-Slim-Restore
 
 ## A modified restore script that allows OriginTrail Node restores from your S3/B2 bucket with minimal disk space.
 
